@@ -2,7 +2,7 @@
 
 In the project directory, to run the app :
 
-yarn start
+yarn
 then for ios react-native run-ios and for android react-native run-android
 
 i attached screenshots from app screens.
