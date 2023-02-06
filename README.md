@@ -3,7 +3,7 @@
 In the project directory, to run the app :
 
 yarn
-then for ios react-native run-ios and for android react-native run-android
+then for ios cd ios=> pod install=> react-native run-ios and for android react-native run-android
 
 i attached screenshots from app screens.
 
